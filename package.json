@@ -1,6 +1,6 @@
 {
   "name": "map-p",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Map over a promised list of values",
   "main": "index.js",
   "scripts": {
